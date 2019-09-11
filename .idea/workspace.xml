@@ -7,44 +7,7 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c66e469d-924f-4f66-8cc4-84326923917c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/classLoaderTest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classLoaderTest.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/classLoaderTest/WEB-INF/classes/org/jvm/ByteUtils.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/classLoaderTest/WEB-INF/classes/org/jvm/ClassModifier.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/classLoaderTest/WEB-INF/classes/org/jvm/HackSystem.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/classLoaderTest/WEB-INF/classes/org/jvm/HotSwapClassLoader.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/classLoaderTest/WEB-INF/classes/org/jvm/JavaClassExecuter.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/classLoaderTest/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/classLoaderTest/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/classLoaderTest/test.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/classLoaderTest_war_exploded/WEB-INF/classes/TestClass.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/classLoaderTest_war_exploded/WEB-INF/classes/org/jvm/ByteUtils.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/classLoaderTest_war_exploded/WEB-INF/classes/org/jvm/ClassModifier.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/classLoaderTest_war_exploded/WEB-INF/classes/org/jvm/HackSystem.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/classLoaderTest_war_exploded/WEB-INF/classes/org/jvm/HotSwapClassLoader.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/classLoaderTest_war_exploded/WEB-INF/classes/org/jvm/JavaClassExecuter.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/classLoaderTest_war_exploded/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/classLoaderTest_war_exploded/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/classLoaderTest_war_exploded/test.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/classLoaderTest/org/jvm/ByteUtils.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/classLoaderTest/org/jvm/ClassModifier.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/classLoaderTest/org/jvm/HackSystem.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/classLoaderTest/org/jvm/HotSwapClassLoader.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/classLoaderTest/org/jvm/JavaClassExecuter.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/jvm/ByteUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/jvm/ClassModifier.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/jvm/HackSystem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/jvm/HotSwapClassLoader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/jvm/JavaClassExecuter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/test.jsp" afterDir="false" />
-    </list>
+    <list default="true" id="c66e469d-924f-4f66-8cc4-84326923917c" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -177,7 +140,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1568183122898</updated>
-      <workItem from="1568183128193" duration="6529000" />
+      <workItem from="1568183128193" duration="7178000" />
     </task>
     <servers />
   </component>
